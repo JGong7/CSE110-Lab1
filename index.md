@@ -35,6 +35,10 @@ class HelloWorld {
     - Probability Theory
     - Stochastic Processes
 
+## List of Goals
+- [x] Do not procrastinate
+- [ ] Learning one new Javascript framework
+- [ ] 4.0 GPA this quarter
 
 [Here is a link to my personal portfolio](https://helpful-puppy-2e4b3b.netlify.app/index.html)
 
