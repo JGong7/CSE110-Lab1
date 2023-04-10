@@ -19,6 +19,22 @@ class HelloWorld {
     }
 }
 ```
+## Skills
+1. Programming Languages
+    - C/C++
+    - Java
+    - Python
+    - HTML, CSS, Javascript
+1. Languages
+    - Mandarin
+    - English
+1. Classes Taken
+    - Data Structures
+    - Algorithms
+    - Web Development Languages
+    - Probability Theory
+    - Stochastic Processes
+
 
 [Here is a link to my personal portfolio](https://helpful-puppy-2e4b3b.netlify.app/index.html)
 
